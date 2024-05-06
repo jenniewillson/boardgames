@@ -146,44 +146,171 @@ I would also like to look at allowing users to add suggestions for new games, wh
 - Make money from advertising and sales of board games
 - Enjoy using it myself!
 
-### User Goals
-🚀 **merit & beyond**
+### User goals
 
 #### Guest
-##### US1
-**As a** 
-**I want** 
-**So that** 
 
-#### New user
+- View games
+- See basic information about a game
+- Filter games to find a specific genre
+- Sort by name in alphabetical order
+- Choose a game they would like to play
+- Create an account to become a user
 
+#### User with an account
 
-#### Existing user
-
+As 'Guest' above, plus:
+- Log in
+- Sort by favourites
+- Submit a board game
+- Edit a board game I added
+- Favourite a game
+- Log out
 
 #### Super-user
 
+- Approve submitted board games
+- Edit existing board games
+- Delete board games
+
+### User stories
+
+#### Guest
+
+##### US1
+**As a** Guest to the website (or a logged in user)
+**I want** to be able to see the list of games
+**So that** I can learn about the games reviewed
+
+##### US2
+**As a** Guest to the website (or a logged in user)
+**I want** to be able to filter the list of games
+**So that** I can see only the games that fit my requirements
+
+##### US3
+**As a** Guest to the website (or a logged in user)
+**I want** to be able to order the games by title or rating
+**So that** it is easier to find a game or to see which are most highly recommended
+
+##### US4
+**As a** Guest to the website (or a logged in user)
+**I want** to be able to contact the website owner
+**So that** I can ask any questions or give any feedback on the site
+
+#### New user
+
+##### US5
+**As a** New user
+**I want** to be able to create an account
+**So that** I can log in to add reviews or record my favourites
+
+##### US6
+**As a** New user
+**I want** to be able to see what the terms of the website are and how my data will be stored and used as per GDPR
+**So that** my legal rights are fulfilled and I can choose to sign up with full knowledge
+
+#### Existing user
+
+##### US7
+**As an** existing user
+**I want** to be able to log in to my account
+**So that** I can access the features available to logged in users
+
+##### US8
+**As a** logged in user
+**I want** to be able to submit a new board game review
+**So that** I can share a new board game with others
+
+##### US9
+**As a** logged in user
+**I want** to be able to edit my own board game reviews
+**So that** I can correct mistakes or add new information
+
+##### US10
+**As a** logged in user
+**I want** to be able to 'favourite' a game
+**So that** I can mark a game as one I want to be able to easily access when I am logged in
+
+##### US11
+**As a** logged in user
+**I want** to be able to sort the list of games by my favourites
+**So that** I can easily access my favourite games whenever I am logged in
+
+##### US12
+**As a** logged in user
+**I want** to be able to complete the contact form without adding my email
+**So that** I am saved time, as I am already logged in
+
+#### Super-user
+
+##### US13
+**As a** logged in Super-user
+**I want** to be able to edit any game another user has added
+**So that** I can correct any incorrect, in appropriate or out of date information
+
+##### US14
+**As a** logged in Super-user
+**I want** to be able to view submitted reviews that have not yet been published
+**So that** I can check a review submitted by a user to ensure it is appropriate for publishing
+
+##### US15
+**As a** logged in Super-user
+**I want** to be able to mark a submitted review for publishing
+**So that** I can check a review submitted by a user to ensure it is appropriate for publishing
+
+### Future user goals
 
 #### Board game producer
 
+**As a** Board game producer
+**I want** to be able to advertise my games clearly
+**So that** I get the game recognised and more traffic to my website
+
+**As a** Board game producer
+**I want** to be able to advertise my games clearly
+**So that** I can sell more of the game
 
 ### Developer Goals
 🚀 **merit & beyond**
 
-List out the goals as a developer you hope to achieve by making this website. 
+**As a** Developer
+**I want** to pass my project
+**So that** I can continue with the course and achieve the diploma
+
+**As a** Developer
+**I want** to improve my skills in coding, using databases, creating secure user accounts, management of data etc
+**So that** I am able to use this in the future in work and outside
+
+**As a** Developer
+**I want** to create a website that I will enjoy and use myself
+**So that** I can find more exciting board games to play and introduce others to the ones I love
+
+**As a** Developer
+**I want** to create a website that will be attractive to the target audience
+**So that** I am able to gain users to make the website successful
+
+**As a** Developer
+**I want** to create a website that will eventually run itself
+**So that** it is successful and potentially makes money with minimum effort from me
 
 ### Website Owner Goals
 🚀 **merit & beyond**
 
-List out any goals a website owner would have for this website. You may not develop them, but investors would want to know how they could make money.
+**As a** Website owner
+**I want** to attract a large number of regular users
+**So that** I have good grounds for attracting advertising revenue
 
+**As a** Website owner
+**I want** the website to be run by users
+**So that** it has minimal running costs
 
-### User Stories
-🚀 **merit & beyond**
+**As a** Website owner
+**I want** to attract lots of relevant advertisers
+**So that** I am able to make money from the adverts but also that users are not put off by irrelevant adverts
 
-In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
-
-As a user type, I want to perform an action, so that I can achieve a goal.
+**As a** Website owner
+**I want** users to buy board games through links from the site
+**So that** I am able to make money and users benefit from a one-stop shop
 
 
 ## Feasibility vs Importance
