@@ -321,12 +321,20 @@ To scope the project for a MVP (minimally viable product) a feasibility analysis
 The features in the table below have been taken from the user stories above. Generic features found in most websites
 will also be implemented such as nav-bar, footer, obvious website purpose etc.
 
-| Opportunity/Feature | Feasibility/Viability (score out of 5) | PurposeLevel of Importance (score out of 5) | In Or Out |
+| Opportunity/Feature | Current Feasibility/Viability (/5)     | PurposeLevel of Importance (score out of 5) | In Or Out |
 |---------------------|----------------------------------------|---------------------------------------------|-----------|
-|                     |                                        |                                             |           |
-|                     |                                        |                                             |           |
-|                     |                                        |                                             |           |
-|                     |                                        |                                             |           |
+| Create account      | 4                                      | 5                                           | In        |
+| Log in              | 4                                      | 5                                           | In        |
+| Log out             | 4                                      | 5                                           | In        |
+| Filter              | 4                                      | 5                                           | In        |
+| Sort                | 4                                      | 5                                           | In        |
+| Advertising space   | 1                                      | 1                                           | Out       |
+| Add board game      | 5                                      | 5                                           | In        |
+| Edit board game     | 3                                      | 5                                           | In        |
+| Delete board game   | 3                                      | 3                                           | In        |
+| Link to buy game    | 2                                      | 1                                           | Out       |
+| Report problem      | 2                                      | 2                                           | Out       |
+| Contact us          | 4                                      | 5                                           | In        |
 
 > You should discuss the outcome of what you will be dropping based on the outcome. Making a scatter plot of the scores and coloring the dot 
 
@@ -334,7 +342,9 @@ will also be implemented such as nav-bar, footer, obvious website purpose etc.
 ## Target Audience
 🚀 **merit & beyond**
 
-our site is most likely geared to a certain audience with a certain interest, that is looking for what your site offers. The type of users, age, gender, interests, and the topic of the site drives many UX decisions so write out what whom you expect to use your site.
+- Board game enthusiasts
+- Occasional players
+- All ages but more aimed at use by adults
 
 ## Design Choices
 🚀 **merit & beyond**
