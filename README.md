@@ -345,17 +345,36 @@ will also be implemented such as nav-bar, footer, obvious website purpose etc.
 - Board game enthusiasts
 - Occasional players
 - All ages but more aimed at use by adults
+- International potentially, mainly English speaking
 
 ## Design Choices
 🚀 **merit & beyond**
 
-Now that you have let the assessors know about the target audience and users, you can go into the design choices
+### Simple
+
+- The site is not specifically aimed at technical people or even those who necessarily use websites a lot. It might be an introduction to this sort of thing, so must be simple to navigate. 
+
+### Minimal
+
+- It should not have a large hierarchy of pages and menus should be simple and obvious
+- The number of pages should be kept to a minimum and it should be possible to get to any of them from any other
+
+### Easy navigation
+
+- It should be very simple to perform all tasks for general users
+- Users should not see what they are unable to access, to avoid confusion - or should be led to a login/sign-up page if relevant
 
 ### Colors
-🚀 **merit & beyond**
 
-- Discuss your color pallet choices and how it ties into users' emotions or target audience.
-- include a screenshot of your pallet using a tool like coolors.co
+A colour scheme should fit with the theme of the site, so I considered the types of colours people might associate with board games.
+
+Obviously that does include almost any colour, so I decided that the best option was to go with a classic board game approach.
+
+Also board games are fun and the site should reflect that, so bright bold colours seemed appropriate.
+
+I thought about games with a range of iconic colours and particularly thought about the standard colours for playing pieces across a lot of games. I decided the most appropriate one to base this on would be Cluedo. The colours are bright and recognisable and fun, there are six including white, which would work as a background colour as the focus of the site is a lot of pictures of games, so other background colours might detract from that. It would allow for a good range of five other colours to make different aspects of the site stand out, with some being used for smaller items, such as red for the 'favourite' heart and a smaller number, two or three, forming the basic colour scheme.
+
+![alt text](<Boardgames colourscheme.png>)
 
 ### Typography
 🚀 **merit & beyond**
