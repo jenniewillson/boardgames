@@ -379,9 +379,11 @@ I thought about games with a range of iconic colours and particularly thought ab
 ### Typography
 🚀 **merit & beyond**
 
-- discuss font size, font types for headers vs buttons vs general text and how it ties into users' emotions or target
-  audience.
-- include screenshots of fonts used and links to the appropriate website ex) https://fonts.google.com/specimen/Raleway
+Typography also needs to follow the plan of simple and easy - and also fun and bold! It should be easy to read but not take itself too seriously!
+
+I decided to use ![Archivo black](https://fonts.google.com/specimen/Archivo+Black?preview.text=Boardgames!&stroke=Sans+Serif) for the titles as it is bold but simple.
+
+For other text I will use ![Quicksand](https://fonts.google.com/specimen/Quicksand?preview.text=Boardgames!&query=Quic&stroke=Sans+Serif). I used suggestions from the website ![Design Your Way](https://www.designyourway.net/blog/best-fonts-for-reading/) and looked for something that was easy to read but was quite modern and not too business-like, as this should look fun! Quicksand looked like the perfect example.
 
 ### Images
 🚀 **merit & beyond**
@@ -449,6 +451,7 @@ Explain why you used certain icons and images on your site
 ![alt text](<Contact us.png>)
 
 - you need **mobile** & **desktop** views
+
 - Capture Your Custom model's
   - CREATE/ADD
   - READ (LIST/DETAIL)
